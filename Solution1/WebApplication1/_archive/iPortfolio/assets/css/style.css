@@ -67,24 +67,24 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 
 #header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  width: 300px;
-  transition: all ease-in-out 0.5s;
-  z-index: 9997;
-  transition: all 0.5s;
-  padding: 0 15px;
-  background: #040b14;
-  overflow-y: auto;
-  
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 300px;
+    transition: all ease-in-out 0.5s;
+    z-index: 9997;
+    transition: all 0.5s;
+    padding: 0 15px;
+    background: rgba(4, 11, 20, .7);
+    overflow-y: auto;
 }
 #header .profile img {
   margin: 15px auto;
   display: block;
   width: 120px;
-  border: 8px solid #2c2f3f;
+  height: 120px;
+  /*border: 8px solid #2c2f3f;*/
 }
 #header .profile h1 {
   font-size: 24px;
@@ -145,6 +145,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   padding: 0;
   list-style: none;
+  color: lightsalmon;
 }
 .nav-menu > ul > li {
   position: relative;
@@ -728,6 +729,12 @@ section {
   background-color: #149ddd;
 }
 
+.classmates {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
@@ -892,6 +899,10 @@ section {
   }
 }
 
+.contact-links {
+    color: black;
+}
+
 /*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
@@ -944,7 +955,7 @@ section {
   bottom: 0;
   width: 300px;
   z-index: 9999;
-  background: #040b14;
+  /*background: #040b14;*/
 }
 #footer .copyright {
   text-align: center;

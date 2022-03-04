@@ -68,8 +68,21 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Home.html" />
+    <Content Include="imgs\android-chrome-192x192.png" />
+    <Content Include="imgs\apple-touch-icon.png" />
+    <Content Include="imgs\Austin Wallace.jpg" />
+    <Content Include="imgs\Connor Dunn.jpg" />
+    <Content Include="imgs\favicon.ico" />
+    <Content Include="imgs\Ian McClaflin.jpg" />
+    <Content Include="imgs\Jazmine Rizo.jpg" />
+    <Content Include="imgs\Kayla Nguyen.jpg" />
+    <Content Include="imgs\Matt Roberts.jpg" />
+    <Content Include="imgs\Michael Redifer.jpg" />
+    <Content Include="imgs\Romeo Bagunu.jpg" />
+    <Content Include="imgs\Sean McKinney.jpg" />
     <Content Include="imgs\trevor-mckinnon-_fJD6NyUR8I-unsplash.jpg" />
     <Content Include="imgs\unnamed%287%29.jpg" />
+    <Content Include="imgs\Zakary Sisler.jpg" />
     <Content Include="Web.config" />
     <Content Include="_archive\index.html" />
     <Content Include="_archive\iPortfolio\assets\css\style.css" />
