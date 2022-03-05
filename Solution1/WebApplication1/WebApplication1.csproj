@@ -67,7 +67,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Home.html" />
+    <Content Include="imgs\Poly EDU.jpg" />
+    <Content Include="imgs\Screenshot 2022-03-05 115653.jpg" />
+    <Content Include="index.html" />
     <Content Include="imgs\android-chrome-192x192.png" />
     <Content Include="imgs\apple-touch-icon.png" />
     <Content Include="imgs\Austin Wallace.jpg" />
